@@ -114,7 +114,11 @@ NVIDIA Corporation (NVDA)
 📈 Change: +$5.23 (+2.81%)
 ```
 
-See `screenshot.png` for a full demonstration of the program in action.
+### Program Demo Screenshot
+
+![Python Finance Info App Demo](screenshot.png)
+
+*Full demonstration of the program in action showing multiple stock queries*
 
 ## 🛠️ Technical Details
 
