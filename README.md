@@ -140,10 +140,6 @@ This program:
 - ✔️ Provides a menu-driven interface
 - ✔️ Produces clean, formatted output
 
-## 📧 Contact
-
-For questions or grading inquiries, please contact: coolprofsinn2@gmail.com
-
 ---
 
 **Course**: CMPE-285  
