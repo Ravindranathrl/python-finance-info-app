@@ -1,4 +1,4 @@
-# finance_info_v3.py
+
 import yfinance as yf
 from datetime import datetime
 
