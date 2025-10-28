@@ -1,0 +1,86 @@
+spartan@ravi: Python Finance Info  % python3 cmpe-285.py                
+=== 📊 Welcome to the Python Finance Info App ===
+1️⃣  Enter a stock symbol
+2️⃣  Show stock info for top companies
+3️⃣  Exit the program
+-----------------------------------------------------
+Please choose an option (1, 2, or 3): 2
+
+🌍 Showing stock information for top companies:
+
+-----------------------------------------------------
+Mon Oct 27 18:37:00  2025
+Apple Inc. (AAPL)
+💰 Price: $268.81
+📈 Change: +$5.99 (+2.28%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:00  2025
+Microsoft Corporation (MSFT)
+💰 Price: $531.52
+📈 Change: +$7.91 (+1.51%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:00  2025
+Alphabet Inc. (GOOGL)
+💰 Price: $269.27
+📈 Change: +$9.35 (+3.60%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:00  2025
+Amazon.com, Inc. (AMZN)
+💰 Price: $226.97
+📈 Change: +$2.76 (+1.23%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:01  2025
+Meta Platforms, Inc. (META)
+💰 Price: $750.82
+📈 Change: +$12.46 (+1.69%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:01  2025
+Tesla, Inc. (TSLA)
+💰 Price: $452.42
+📈 Change: +$18.70 (+4.31%)
+-----------------------------------------------------
+
+-----------------------------------------------------
+Mon Oct 27 18:37:01  2025
+NVIDIA Corporation (NVDA)
+💰 Price: $191.49
+📈 Change: +$5.23 (+2.81%)
+-----------------------------------------------------
+
+=== 📊 Welcome to the Python Finance Info App ===
+1️⃣  Enter a stock symbol
+2️⃣  Show stock info for top companies
+3️⃣  Exit the program
+-----------------------------------------------------
+Please choose an option (1, 2, or 3): 1
+
+📥 Enter stock symbols one by one.
+Type 'menu' to return to the main menu or 'exit' to quit.
+
+Please enter a stock symbol (e.g., AAPL): nvda
+-----------------------------------------------------
+Mon Oct 27 18:37:45  2025
+NVIDIA Corporation (NVDA)
+💰 Price: $191.49
+📈 Change: +$5.23 (+2.81%)
+-----------------------------------------------------
+
+Please enter a stock symbol (e.g., AAPL): tsla
+-----------------------------------------------------
+Mon Oct 27 18:38:05  2025
+Tesla, Inc. (TSLA)
+💰 Price: $452.42
+📈 Change: +$18.70 (+4.31%)
+-----------------------------------------------------
+
+Please enter a stock symbol (e.g., AAPL): 
